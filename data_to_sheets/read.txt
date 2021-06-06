@@ -8,4 +8,4 @@ Simple python script to get data from google sheets and to push data into google
 2.Add the google sheets api and enable it for the account
 3.Download tge key.json file which contains the access token for service account 
 4.Share the sheet with the service account email as editor.
-5.Viola..... you have a simple python bot to get/push data to google sheets.
+5.Voilà..... you have a simple python bot to get/push data to google sheets.
